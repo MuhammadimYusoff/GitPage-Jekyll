@@ -1,1 +1,5 @@
-title: "My First Post to test this Thing, GitHub Pages."
+---
+title: "First GitHub Blog Title Testing"
+date 2021-10-06
+---
+
